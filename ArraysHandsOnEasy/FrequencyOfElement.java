@@ -21,7 +21,7 @@ public class FrequencyOfElement {
 		int flag = 0;
 		for(int i=0;i<n;i++) {
 			int count = 1;
-			if(flag == 1) {
+			if(flag == 1) {			//Frequency checking
 				continue;		
 			}
 			for(int j=i+1;j<n;j++) {
