@@ -38,7 +38,7 @@ public class FunctionBasic {
 		SimpleDateFormat sdf = new SimpleDateFormat("dd/MM/yyyy");
 		Date date = sdf.parse(d);
 		
-		System.
+		
 		System.out.print("Movie Country : ");
 		String country = sc.nextLine();
 		
